@@ -56,6 +56,5 @@ This project is a chess game implemented in Java using a graphical user interfac
 
 ## Future Improvements
 
-- Add functionality for multiple pieces on the board at the same time.
 - Implement full game logic with turns for two players.
 - Add support for special moves like castling, en passant, and pawn promotion.
