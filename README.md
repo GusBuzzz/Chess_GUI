@@ -28,7 +28,7 @@ This project is a chess game implemented in Java using a graphical user interfac
 
 ## Screenshot
 
-![Chess Game GUI](./path/to/screenshot.png)
+![Chess Game GUI](./Chess_GUI.png)
 
 *Screenshot of the chess game GUI, showing the controls for selecting pieces and positions.*
 
